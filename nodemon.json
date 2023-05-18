@@ -1,0 +1,6 @@
+{
+  "ext": "go, mod",
+  "execMap": {
+    "go": "go run"
+  }
+}

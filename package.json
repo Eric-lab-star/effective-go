@@ -1,0 +1,12 @@
+{
+  "name": "effective-go",
+  "version": "1.0.0",
+  "description": "",
+  "main": "path.go",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "nodemon --exec pkgsite"
+  },
+  "author": "",
+  "license": "ISC"
+}
