@@ -12,3 +12,7 @@ import "fmt"
 func main() {
 	fmt.Println("go with node")
 }
+
+func plusOne(digit int) {
+	fmt.Println(digit + 1)
+}
